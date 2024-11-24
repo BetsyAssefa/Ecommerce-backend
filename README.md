@@ -145,7 +145,7 @@ The database includes the following models:
 ---
 
 ## **Walkthrough Video**
-[Click here to watch the walkthrough video](https://your-video-link.com)
+[Click here to watch the walkthrough video](https://drive.google.com/file/d/15HBeJ9tpYfxuVrWN7vWzrsdyT6cAdTuK/view?usp=sharing)
 
 ---
 
